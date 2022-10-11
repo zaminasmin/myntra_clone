@@ -36,7 +36,7 @@ class SortProvider with ChangeNotifier{
   size(size){
     fire=FirebaseFirestore.instance.collection("products").where("size",whereIn:size).snapshots();
   }
-  getsize(int startprice,int finalprice)
+  getsize(String startprice,String finalprice)
   {
     fire=FirebaseFirestore.instance.collection("products").where("offerprice",isGreaterThan: startprice,isLessThan: finalprice).snapshots();
 
