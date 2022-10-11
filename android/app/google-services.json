@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "28482391832",
+    "firebase_url": "https://mythraclone-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mythraclone",
+    "storage_bucket": "mythraclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28482391832:android:b344874a4d9f73cf4bd86d",
+        "android_client_info": {
+          "package_name": "com.app.sunrun.task_sunrun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28482391832-tn3a7g9vf4lm848afupadtjf5djfjcid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCupB3-NBZw981I6CQoTdcFxdFBHsd6a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28482391832-tn3a7g9vf4lm848afupadtjf5djfjcid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
